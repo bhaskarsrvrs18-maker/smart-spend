@@ -505,16 +505,8 @@ Through this project, I gained hands-on experience with:
 ---
 
 
-#  Author
 
-**Malatesh Gouda R H**
 
-* Full Stack Developer
-* MERN Stack Enthusiast
-* Problem Solver
-
-GitHub:
-https://github.com/Malateshgouda813
 
 
 
